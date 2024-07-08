@@ -1,0 +1,12 @@
+{
+  "name": "Strategy Point Token",
+  "symbol": "SPT",
+  "uri": "https://raw.githubusercontent.com/azraelkain/StrategyPointsTokens/main/spc.png",
+  "seller_fee_basis_points": 500, 
+  "creators": [
+    {
+      "address": "z1cRMhCYaBy96A8fxYSjph49aLdJDYsz5ATESiKfu1A", 
+      "share": 100 
+    }
+  ]
+}
